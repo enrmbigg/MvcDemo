@@ -1,0 +1,10 @@
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll.config
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.pdb
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.pdb
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.pdb
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo.Tests\bin\Debug\EntityFramework.xml

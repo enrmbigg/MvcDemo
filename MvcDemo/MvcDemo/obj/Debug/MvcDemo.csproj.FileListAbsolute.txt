@@ -1,0 +1,6 @@
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\bin\MvcDemo.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\bin\MvcDemo.pdb
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\bin\EntityFramework.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\bin\EntityFramework.xml
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\obj\Debug\MvcDemo.dll
+C:\Users\Michael.Biggs\Documents\Visual Studio 2010\Projects\mvcdemo\MvcDemo\MvcDemo\obj\Debug\MvcDemo.pdb
